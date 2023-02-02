@@ -1,24 +1,11 @@
 # test_task_cvc
 
-## Project setup
+Для работы с проектом, Вам нужно склонировать его в нужную папку и выполнить команду
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<br>
+Также для нормальной работы сайта на github pages, в случае если он делает запросы с https на http (а он делает)
+, необходимо выключить безопасный режим в вашем браузере.
+Пример для Chrome:
+<img src='https://i.stack.imgur.com/VgkNP.png' width='600px'>
