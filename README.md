@@ -11,3 +11,5 @@ npm install
 Пример для Chrome:<br>
 <img src='https://i.stack.imgur.com/iwBRO.png' width='600px'>
 <img src='https://i.stack.imgur.com/VgkNP.png' width='600px'>
+
+(Бэкэнд неактивен)
